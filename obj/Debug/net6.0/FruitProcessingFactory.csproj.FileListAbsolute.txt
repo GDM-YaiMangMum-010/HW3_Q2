@@ -1,0 +1,15 @@
+F:\MDT\2022\MDT211\HW3\FruitProcessingFactory\bin\Debug\net6.0\FruitProcessingFactory.exe
+F:\MDT\2022\MDT211\HW3\FruitProcessingFactory\bin\Debug\net6.0\FruitProcessingFactory.deps.json
+F:\MDT\2022\MDT211\HW3\FruitProcessingFactory\bin\Debug\net6.0\FruitProcessingFactory.runtimeconfig.json
+F:\MDT\2022\MDT211\HW3\FruitProcessingFactory\bin\Debug\net6.0\FruitProcessingFactory.dll
+F:\MDT\2022\MDT211\HW3\FruitProcessingFactory\bin\Debug\net6.0\FruitProcessingFactory.pdb
+F:\MDT\2022\MDT211\HW3\FruitProcessingFactory\obj\Debug\net6.0\FruitProcessingFactory.csproj.AssemblyReference.cache
+F:\MDT\2022\MDT211\HW3\FruitProcessingFactory\obj\Debug\net6.0\FruitProcessingFactory.GeneratedMSBuildEditorConfig.editorconfig
+F:\MDT\2022\MDT211\HW3\FruitProcessingFactory\obj\Debug\net6.0\FruitProcessingFactory.AssemblyInfoInputs.cache
+F:\MDT\2022\MDT211\HW3\FruitProcessingFactory\obj\Debug\net6.0\FruitProcessingFactory.AssemblyInfo.cs
+F:\MDT\2022\MDT211\HW3\FruitProcessingFactory\obj\Debug\net6.0\FruitProcessingFactory.csproj.CoreCompileInputs.cache
+F:\MDT\2022\MDT211\HW3\FruitProcessingFactory\obj\Debug\net6.0\FruitProcessingFactory.dll
+F:\MDT\2022\MDT211\HW3\FruitProcessingFactory\obj\Debug\net6.0\refint\FruitProcessingFactory.dll
+F:\MDT\2022\MDT211\HW3\FruitProcessingFactory\obj\Debug\net6.0\FruitProcessingFactory.pdb
+F:\MDT\2022\MDT211\HW3\FruitProcessingFactory\obj\Debug\net6.0\FruitProcessingFactory.genruntimeconfig.cache
+F:\MDT\2022\MDT211\HW3\FruitProcessingFactory\obj\Debug\net6.0\ref\FruitProcessingFactory.dll
